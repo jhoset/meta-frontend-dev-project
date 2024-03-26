@@ -1,2 +1,2 @@
 export * from "./BookingPage";
-export * from "./LandingPage";
+export * from "./HomePage";

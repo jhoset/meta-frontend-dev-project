@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import { SectionLayout } from "../layout/SectionLayout"
 import { ImageSlider } from "./ImageSlider"
 
@@ -13,7 +14,7 @@ export const Banner = () => {
                         served with a modern twist.
                     </p>
 
-                    <button className="btn-primary"> Reserve a Table </button>
+                    <Link to="/booking" className="btn-primary" style={{ display: 'inline-block' }}>Reserve a Table</Link>
                 </div>
                 <div style={{ position: 'relative' }}>
                     <ImageSlider />

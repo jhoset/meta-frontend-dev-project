@@ -70,3 +70,15 @@ body {
   color: var(--slate-gray);
   font-family: var(--fontFamily-dm_sans);
 }
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--olive-green);
+}
