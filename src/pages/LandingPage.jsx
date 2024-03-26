@@ -1,11 +1,11 @@
-import { Footer, Header, Main } from "../components"
+import { Header, Main } from "../components"
 
 export const LandingPage = () => {
   return (
     <>
       <Header></Header>
       <Main></Main>
-      <Footer></Footer>
+      {/* <Footer></Footer> */}
 
     </>
   )

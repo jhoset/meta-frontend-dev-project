@@ -119,7 +119,7 @@ header.header {
   font-weight: 700;
   border: none;
   cursor: pointer;
-  transition: var(--transition-3);
+  transition: var(--transition-1);
 }
 
 .btn-primary:hover {

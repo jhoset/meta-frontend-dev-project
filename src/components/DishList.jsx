@@ -22,7 +22,7 @@ export const DishList = () => {
   ]
 
   return (
-    <SectionLayout>
+    <SectionLayout backgroundColor="#ffffff">
       <div className="dish-info mt-120">
         <div className="weeks-specials">
           <h3>This weeks specials!</h3>
