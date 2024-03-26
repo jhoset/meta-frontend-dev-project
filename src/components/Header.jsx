@@ -2,8 +2,7 @@ import { Nav } from "./Nav"
 
 export const Header = () => {
     return (
-        <header>
-            Header
+        <header className="header" >
             <Nav></Nav>
         </header>
     )
