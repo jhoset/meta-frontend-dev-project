@@ -223,6 +223,7 @@ header.header {
 }
 
 .card .header img {
+  max-height: 150px;
   border-radius: none;
   border-top-left-radius: var(--radius-md);
   border-top-right-radius: var(--radius-md);

@@ -1,13 +1,13 @@
-export const DishCard = () => {
+export const DishCard = ({ imgUrl, name, price }) => {
     return (
         <div className="card">
             <div className="header">
-                <img src="./public/images/brucheta.webp" alt="Our Menu" className="img-cover" />
+                <img src={imgUrl} alt="Our Menu" className="img-cover" />
             </div>
             <div className="body">
                 <div className="dish">
-                    <span className="dish-name"> Greek Salad </span>
-                    <span className="dish-price"> $13.67 </span>
+                    <span className="dish-name"> {name} </span>
+                    <span className="dish-price"> {price} </span>
                 </div>
                 <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos laborum rem quasi amet animi
@@ -16,7 +16,7 @@ export const DishCard = () => {
                 </p>
 
                 <div className="meta-info">
-                    Order a Delivery <span>🛵</span>   
+                    Order a Delivery <span>🛵</span>
                 </div>
             </div>
         </div>
