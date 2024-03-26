@@ -23,7 +23,7 @@ Building the **landing page** and the **reservations page** of the little lemon 
 
 <p align="center">
     <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-front-end-developer-certificate">
-        <img src="public/meta-frontend-cert.png" width="30%" height="30%" />
+        <img src="https://images.credly.com/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="30%" height="30%" />
     </a>
 </p>
 
