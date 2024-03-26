@@ -1,5 +1,17 @@
 # Little Lemon App - Home & Booking Pages
 
+To See the Application follow these steps:
+
+1.- Install Dependencies
+```
+npm install
+```
+2.- Run the project
+```
+npm run dev
+```
+
+## Application's UI
 
 ![imagen](https://github.com/jhoset/meta-frontend-dev-project/assets/29497145/769b01f0-1693-426d-bcf7-8e641b599915)
 
