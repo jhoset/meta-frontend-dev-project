@@ -1,8 +1,11 @@
-# React + Vite
+# Little Lemon App - Home & Booking Pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![imagen](https://github.com/jhoset/meta-frontend-dev-project/assets/29497145/769b01f0-1693-426d-bcf7-8e641b599915)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![imagen](https://github.com/jhoset/meta-frontend-dev-project/assets/29497145/8a7cee48-0b38-40e3-b098-0320e1084baf)
+
+MOBILE VERSION:
+
+![imagen](https://github.com/jhoset/meta-frontend-dev-project/assets/29497145/30556f14-3227-422e-ad3a-2a13f43b4824)
+![imagen](https://github.com/jhoset/meta-frontend-dev-project/assets/29497145/a7081fb3-f544-4805-9ff0-cf007844228a)
