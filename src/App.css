@@ -319,4 +319,17 @@ header.header {
   .menu {
     display: inline-block;
   }
+
+  .weeks-specials {
+    display: grid;
+    justify-content: center;
+  }
+
+  .dish-info {
+    margin-top: 2rem;
+  }
+
+  .card {
+    width: 90%;
+  }
 }
